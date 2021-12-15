@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**antuknee/antuknee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Anthony
 
-Here are some ideas to get you started:
+  <h1  align=center><img  src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%012949&size=22&center=true&vCenter=true&lines=PHP%2C+Javascript%2C+MYSQL%2C+React"  alt=""></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm 23 yrs. old Software Developer who loves to learn everything🤣
+
+  
+
+- 🌱 I’m currently learning everything 🤣
+
+- 👯 I’m looking to collaborate with other Developer to enhance my skills and knowledge
+
+- 🥅 2022 Goals: Learn about more in Software Development
+
+- ⚡ I love to Playing Video Games.
+
+- ₿ Cryptocurrencies Enthusiast
