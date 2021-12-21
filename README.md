@@ -13,6 +13,6 @@
 
 - 🥅 2022 Goals: Learn about more in Software Development
 
-- ⚡ I love to Playing Video Games.
+- ⚡ I love to Creating Web app.
 
 - ₿ Cryptocurrencies Enthusiast
