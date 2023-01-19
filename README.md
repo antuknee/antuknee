@@ -3,7 +3,7 @@
 
   <h1  align=center><img  src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%012949&size=22&center=true&vCenter=true&lines=PHP%2C+Javascript%2C+MYSQL%2C+React"  alt=""></h1>
 
-## I'm 23 yrs. old Software Developer who loves to learn everything🤣
+## I'm 24 yrs. old Software Engineer🤣
 
   
 
