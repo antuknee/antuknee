@@ -9,16 +9,6 @@
 
 - 🌱 I am currently learning everything I can🤣
 
-- 👯 I’m looking to collaborate with other Developer to enhance my skills and knowledge
-
-- 🥅 2022 Goals: Learn about more in Software Development
-
--  ✨ My 2022 Goals: To get better in Web Developement
-
--  ✨ Fun fact: Video games and good music
-
-- ₿ Cryptocurrencies Enthusiast
-
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/120930/html.svg" />
