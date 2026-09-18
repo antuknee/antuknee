@@ -40,5 +40,4 @@
 
 * ASPRunner.NET
 * PHPRunner
-* Microsoft Dynamics NAV / Business Central
 * HRIS / ERP Systems
